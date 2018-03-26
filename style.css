@@ -1,11 +1,13 @@
-.georgia {
+.title {
   font: georgia;
   font-color: black;
   padding-top: 150px;
 font-size: 400px;
+  
 .LETTERS {
  font-size: 50px;
  font-family: georgia;
   text-align: left;
+  
 .wrapper {
   font: georgia;
