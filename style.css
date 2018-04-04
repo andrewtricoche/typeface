@@ -1,39 +1,76 @@
-.wrapper{max-width: 960px;
-margin-right: auto;
-margin-left: auto;
-}
-		
-.centered{
-    font-size: 2em;
-    text-align: center;
-    text-transform: uppercase;
-    }
-.words{
-font-size: 1.25em;
-text-align: center;
-font-family: sans-serif;
-line-height: 1.5;
-}
-.quote{
-    font-style: italic;
-    text-align: center;
-    font-size: 1.25em;
-    }
-.image{
-padding: 0 15px;
+.title {
+  font-family: georgia;
+  padding-top: 150px;
+  font-size: 100px;
+  width: 1600px;
+  }
+  .letters {
+ font-size: 50px;
+ font-family: georgia;
+  text-align: center;
+   border-left: 1px solid black;
+  border-right: 1px solid black;
+    height: 500px;
+  }
+.letters2 {
+ font-size: 50px;
+ font-family: georgia;
+ font-weight: bold;
+  text-align: center;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+    height: 500px;
+  }
+.letters3 {
+ font-size: 50px;
+ font-family: georgia;
+ font-style: italic;
+  text-align: center;
+   border-left: 1px solid black;
+  border-right: 1px solid black;
+    height: 500px;
+  }
+.img {
+max-width: 100%;
 float: left;
-display: block;
+padding-bottom: 25px;
 }
-.bio{
-margin-top: 20px;
-font-size: 1.25em;
+.header {
 text-align: center;
-font-family: sans-serif;
-line-height: 1.5;
-    }
-@media only screen and (max-width: 500px) {
-body{
-line-height: 1;
-font-size: .5em;
+font-size: 35px;
+font-variant: all-small-caps;
+line-height: .5px;
 }
+.subtitle {
+text-align: center;
+border-bottom: 2px solid black;
 }
+.numbers {
+font-size: 50px;
+ font-family: georgia;
+  text-align: center;
+   }
+   .wrap {
+   max-width: 960px;
+   margin-left: auto;
+   margin-right: auto;
+   font-family: georgia;
+   }
+   .div {
+   padding: 1.5%;
+   max-width: 30%;
+   text-align: center;
+   display: inline-block;
+   }
+   .link {
+   font-size: 20px;
+   text-align: center;
+   }
+   .text {
+   font-size: 20px;
+   line-height: 30px;
+   }
+   .br {
+   display: block;
+   margin: 10px 0;
+   }
